@@ -1,0 +1,1 @@
+print ((" devanshu "+"\n")*10)
